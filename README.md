@@ -20,8 +20,8 @@ This repository contains code for a car price prediction model using a Random Fo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Austinkuria/Car-Price-Prediction.git
-   cd Car-Price-Prediction
+   git clone https://github.com/Austinkuria/Car-Price-Prediction-Model.git
+   cd Car-Price-Prediction-Model
    ```
 
 2. **Create a virtual environment:**
@@ -48,7 +48,7 @@ This repository contains code for a car price prediction model using a Random Fo
 
 1. **Navigate to the project folder:**
    ```bash
-   cd Car-Price-Prediction
+   cd Car-Price-Prediction-Model
    ```
 
 2. **Activate the virtual environment** (if not already active):
