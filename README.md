@@ -1,4 +1,4 @@
-# Car Price Prediction
+# Car Price Prediction Model
 
 This repository contains code for a car price prediction model using a Random Forest Regressor. We aim to predict car prices based on various car attributes through data cleaning, exploration, feature engineering, model training, and evaluation.
 
