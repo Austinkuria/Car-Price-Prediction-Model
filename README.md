@@ -53,8 +53,8 @@ This repository contains code for a car price prediction model using a Random Fo
 
 2. **Activate the virtual environment** (if not already active):
    ```bash
-   .venv\Scripts\activate  # On Windows
-   source .venv/bin/activate  # On macOS/Linux
+   .venv\Scripts\activate  # On Windows Powershell
+   source .venv/bin/activate  # On Git Bash or macOS/Linux
    ```
 
 3. **Run the Jupyter Notebook:**
